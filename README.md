@@ -23,10 +23,10 @@ This project documents the practical troubleshooting and successful repair of a 
 ## 📸 Images from the Process
 
 ### Product Overview
-![Sony headphones](sony-headphones.png)
+![Sony headphones](sony-headphones.jpg)
 
 ### Detail of the Soldered and Taped Cable Joint
-![Repaired cable joint](cable-repair-detail.png)
+![Repaired cable joint](cable-repair-detail.jpg)
 
 ### Tools and Equipment Used on the Workbench
-![Tools used in the project](lab-tools-used.png)
+![Tools used in the project](lab-tools-used.jpg)
