@@ -1,6 +1,3 @@
-# hardware-reparations-and-lab-notebook
-
-
 # 🛠️ Sony Headphone Cable Repair (Litz Wire & Soldering Techniques)
 
 This project documents the practical troubleshooting and successful repair of a pair of Sony headphones where the cable to one of the ear cups had snapped. The project serves as a practical self-study in handling ultra-fine enameled conductors and maintaining thermal control under challenging laboratory conditions.
