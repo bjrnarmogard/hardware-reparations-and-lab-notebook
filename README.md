@@ -27,3 +27,4 @@ This project documents the practical troubleshooting and successful repair of a 
 
 ### Tools and Equipment Used on the Workbench
 ![Tools used in the project](sony-headphone-repair/lab-tools-used.jpg)
+
